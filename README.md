@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/OdessaSenpai/Cloud-SOC)
-- <b>Active Directory Domain Configuration</b>
+- <b>Active Directory Lab</b>
   - [Active Directory Domain Configuration]() 
 
 
